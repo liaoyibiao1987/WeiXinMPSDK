@@ -4,7 +4,7 @@
     文件名：EventService.cs
     文件功能描述：事件处理程序，此代码的简化MessageHandler方法已由/CustomerMessageHandler/CustomerMessageHandler_Event.cs完成
       
-    
+    pingpingliao
     创建标识：Senparc - 20150312
 ----------------------------------------------------------------*/
 
