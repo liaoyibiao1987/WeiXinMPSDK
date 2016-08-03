@@ -3,7 +3,7 @@
   
     文件名：Signature.cs
     文件功能描述：检测签名
-    
+    pingpingliao
     
     创建标识：Senparc - 20150313
     
